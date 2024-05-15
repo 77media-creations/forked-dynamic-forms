@@ -4,9 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## Unreleased
+
+## [v1.0.1 - 2024-05-15]
+### Changed
+- Carbon v3 is now compatible with the package.
+
 ### Fixes
 - `SimpleConditional::invoke()` would always return false for multi-value `Select` or `SelectBoxes` components. This has been corrected.
 
+## [v1.0.0 - 2024-03-19]
 ### Changed
 - The minimum versions for dependencies have changed. The new requirements are:
     - PHP 8.2
