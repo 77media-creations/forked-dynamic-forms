@@ -33,7 +33,7 @@
     },
     "require-dev": {
         "orchestra/testbench": "^9",
-        "phpunit/phpunit": "^10.5.20",
+        "phpunit/phpunit": "^10.5.27",
         "php-coveralls/php-coveralls": "^2.4"
     },
     "autoload": {
